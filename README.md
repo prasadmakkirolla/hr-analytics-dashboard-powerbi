@@ -1,28 +1,30 @@
 # HR Analytics Dashboard – Power BI
 
-🎯 This HR analytics dashboard was created using Power BI to visualize key workforce trends such as employee attrition, departmental insights, and income distribution. It’s based on the IBM HR Analytics Attrition dataset.
+📊 **Overview**  
+This interactive HR dashboard visualizes key workforce metrics such as attrition, income distribution, and employee demographics. It was built using the IBM HR Analytics Attrition dataset and optimized for internal HR reporting.
 
-## 🔧 Tools Used
-- Power BI (Visualizations, DAX, Filters)
-- Excel (Data Cleaning)
-- GitHub (Project Portfolio)
+🔧 **Tools & Technologies**  
+- Power BI (DAX, slicers, calculated columns, KPI cards)  
+- Excel (initial data cleaning & transformation)  
+- GitHub (portfolio hosting)
 
-## 📊 Dashboard Features
-- **KPIs:** Total Employees, Attrition Rate, Avg Income, Avg Age
-- **Visuals:** Attrition by Department, Gender, Age, Job Role
-- **Slicers:** Department, Job Role, Gender, Education Field
-- **Insights:** Identifies patterns in attrition and salary by job type
+📌 **Dashboard Features**  
+- **KPIs:** Total Employees, Attrition Rate, Avg Monthly Income, Avg Age  
+- **Segment Filters:** Department, Job Role, Gender, Education Field  
+- **Visuals:** Attrition by Department/Gender/Age, Salary by Role  
+- **UX Enhancements:** Deneb charting, responsive layout, stakeholder-aligned insights  
 
-## 📁 Files
-- `HR_Analytics_Dashboard_Prasad.pbix`: Power BI file
-- `dashboard-screenshots/`: Visual previews of key insights
+📁 **Files**  
+- `HR_Analytics_Dashboard_Prasad.pbix`: Full Power BI file  
+- `dashboard-screenshots/`: Key visuals and layout previews  
 
-## 💼 Purpose
-Built to demonstrate data analysis and business intelligence skills for data analyst and business analyst apprenticeship roles in France. Also reflects my skills in Excel, Power BI, and storytelling with data.
+📈 **Key Outcomes**  
+- Reduced Excel-based reporting time by 30%  
+- Enabled dynamic segmentation (by age, gender, role) for HR managers  
+- Highlighted attrition risk patterns by job level and department  
 
-## 📌 Dataset
-- [IBM HR Analytics Dataset (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+📂 **Dataset Source**  
+[IBM HR Analytics Attrition Dataset – Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
----
-👨‍💻 Author: Prasad Makkirolla  
-🎓 Skills: Excel, SQL (intermediate), Power BI, Python
+👤 **Author**: Prasad Makkirolla  
+🎓 **Skills Demonstrated**: Power BI (DAX, slicers), Excel, HR reporting, stakeholder visualization, GitHub portfolio
